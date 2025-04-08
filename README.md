@@ -1,1 +1,1 @@
-# PJ
+# Betting style project
